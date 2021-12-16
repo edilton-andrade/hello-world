@@ -10,4 +10,6 @@
 	<p>
 		You are coming from 
 		<%= request.getRemoteAddr()  %></p>
+	<p>
+		New Line!</p>
 </body>
