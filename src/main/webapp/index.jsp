@@ -11,5 +11,5 @@
 		You are coming from 
 		<%= request.getRemoteAddr()  %></p>
 	<p>
-		New Line!</p>
+		The Line!</p>
 </body>
